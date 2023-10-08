@@ -1,0 +1,1 @@
+# como-instalar-intellij-no-ubuntu
