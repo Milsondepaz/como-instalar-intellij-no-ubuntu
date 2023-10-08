@@ -4,7 +4,7 @@ O IntelliJ IDEA é uma das IDE's (Ambiente de Desenvolvimento Integrado) mais po
 
 ## Passos de Instalação
 
-1. Visite o site da JetBrains para baixar o IntelliJ IDEA Comunity Edition em [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/).
+1. Baixe Baixe o IntelliJ IDEA Comunity Edition em [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/).
 
 2. Após o download ser concluído, verifique se o arquivo baixado está na pasta "Downloads". Você pode fazer isso executando o seguinte comando no terminal:
 
