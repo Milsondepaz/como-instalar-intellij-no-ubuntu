@@ -1,12 +1,10 @@
-Claro, aqui está o conteúdo formatado como um arquivo README em Markdown (.md) para instalar o IntelliJ IDEA no Ubuntu:
-
 # Como Instalar o IntelliJ IDEA no Ubuntu
 
-O IntelliJ IDEA é um ambiente de desenvolvimento integrado popular para Java e outras linguagens de programação. Este guia irá guiá-lo pelas etapas para instalar a Edição Comunitária do IntelliJ IDEA no Ubuntu.
+O IntelliJ IDEA é uma das IDE's (Ambiente de Desenvolvimento Integrado) mais popular para Java e outras linguagens de programação. Aqui esta um guia passo-a-passo de como instalar a Edição Comunity do IntelliJ IDEA no Ubuntu.
 
 ## Passos de Instalação
 
-1. Visite o site da JetBrains para baixar o IntelliJ IDEA Edição Comunitária em [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/).
+1. Visite o site da JetBrains para baixar o IntelliJ IDEA Comunity Edition em [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/).
 
 2. Após o download ser concluído, verifique se o arquivo baixado está na pasta "Downloads". Você pode fazer isso executando o seguinte comando no terminal:
 
@@ -14,7 +12,7 @@ O IntelliJ IDEA é um ambiente de desenvolvimento integrado popular para Java e 
     ls Downloads/
     ```
 
-3. Extraia o arquivo baixado usando o seguinte comando. Certifique-se de substituir `ideaIC-2023.2.2.tar.gz` pelo nome do arquivo real que você baixou:
+3. Extraia o arquivo baixado usando o seguinte comando. Certifique-se de substituir `ideaIC-2023.2.2.tar.gz` ou o `nome-do-seu-arquivo.tar.gz` pelo nome do arquivo real que você baixou:
 
     ```bash
     tar -xzf ideaIC-2023.2.2.tar.gz
@@ -40,7 +38,7 @@ O IntelliJ IDEA é um ambiente de desenvolvimento integrado popular para Java e 
     sudo nano /usr/share/applications/intellij-idea.desktop
     ```
 
-8. No editor de texto, cole o seguinte conteúdo no arquivo:
+8. No editor de texto, cole o a baixo:
 
     ```ini
     [Desktop Entry]
@@ -62,6 +60,4 @@ O IntelliJ IDEA é um ambiente de desenvolvimento integrado popular para Java e 
     sudo update-desktop-database
     ```
 
-Agora você deve ter o IntelliJ IDEA instalado no seu sistema Ubuntu, com um comando no terminal (`idea`) e um atalho na área de trabalho disponíveis para acesso fácil.
-
-Aproveite a programação com o IntelliJ IDEA!
+Agora você tem o IntelliJ IDEA instalado no Ubuntu, com um comando no terminal (`idea`) e um atalho na área de trabalho disponíveis para acesso fácil.
